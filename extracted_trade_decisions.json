@@ -1,17 +1,27 @@
 [
     {
+        "Ticker": "A",
+        "Trade Date": "2025-06-28",
+        "Decision": "SELL"
+    },
+    {
+        "Ticker": "AKAM",
+        "Trade Date": "2025-06-28",
+        "Decision": "HOLD"
+    },
+    {
+        "Ticker": "ALGN",
+        "Trade Date": "2025-06-28",
+        "Decision": "HOLD"
+    },
+    {
+        "Ticker": "APD",
+        "Trade Date": "2025-06-28",
+        "Decision": "HOLD"
+    },
+    {
         "Ticker": "ARE",
-        "Trade Date": "2025-06-27",
-        "Decision": "SELL"
-    },
-    {
-        "Ticker": "BLDR",
-        "Trade Date": "2025-06-27",
-        "Decision": "SELL"
-    },
-    {
-        "Ticker": "KMX",
-        "Trade Date": "2025-06-27",
+        "Trade Date": "2025-06-28",
         "Decision": "SELL"
     }
 ]
