@@ -1,27 +1,20 @@
 [
     {
-        "Ticker": "A",
-        "Trade Date": "2025-06-28",
-        "Decision": "SELL"
+        "Ticker": "DAL",
+        "Trade Date": "2025-07-01",
+        "Decision": "SELL",
+        "Targeted Price": "NO"
     },
     {
-        "Ticker": "AKAM",
-        "Trade Date": "2025-06-28",
-        "Decision": "HOLD"
+        "Ticker": "TGT",
+        "Trade Date": "2025-07-01",
+        "Decision": "HOLD",
+        "Targeted Price": "NO"
     },
     {
-        "Ticker": "ALGN",
-        "Trade Date": "2025-06-28",
-        "Decision": "HOLD"
-    },
-    {
-        "Ticker": "APD",
-        "Trade Date": "2025-06-28",
-        "Decision": "HOLD"
-    },
-    {
-        "Ticker": "ARE",
-        "Trade Date": "2025-06-28",
-        "Decision": "SELL"
+        "Ticker": "UAL",
+        "Trade Date": "2025-07-01",
+        "Decision": "HOLD",
+        "Targeted Price": "NO"
     }
 ]
