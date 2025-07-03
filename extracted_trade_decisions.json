@@ -1,32 +1,26 @@
 [
     {
-        "Ticker": "ANET",
-        "Trade Date": "2025-07-02",
-        "Decision": "SELL",
-        "Targeted Price": "90"
-    },
-    {
         "Ticker": "CRM",
-        "Trade Date": "2025-07-02",
+        "Trade Date": "2025-07-03",
         "Decision": "HOLD",
         "Targeted Price": "NO"
     },
     {
         "Ticker": "DAL",
-        "Trade Date": "2025-07-02",
+        "Trade Date": "2025-07-03",
         "Decision": "HOLD",
         "Targeted Price": "NO"
     },
     {
-        "Ticker": "SMCI",
-        "Trade Date": "2025-07-02",
-        "Decision": "BUY",
+        "Ticker": "HPQ",
+        "Trade Date": "2025-07-03",
+        "Decision": "SELL",
         "Targeted Price": "NO"
     },
     {
         "Ticker": "UAL",
-        "Trade Date": "2025-07-02",
-        "Decision": "SELL",
-        "Targeted Price": "NO"
+        "Trade Date": "2025-07-03",
+        "Decision": "BUY",
+        "Targeted Price": "153.5"
     }
 ]
