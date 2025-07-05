@@ -1,26 +1,32 @@
 [
     {
         "Ticker": "CRM",
-        "Trade Date": "2025-07-03",
+        "Trade Date": "2025-07-04",
         "Decision": "HOLD",
         "Targeted Price": "NO"
     },
     {
         "Ticker": "DAL",
-        "Trade Date": "2025-07-03",
+        "Trade Date": "2025-07-04",
         "Decision": "HOLD",
         "Targeted Price": "NO"
     },
     {
-        "Ticker": "HPQ",
-        "Trade Date": "2025-07-03",
-        "Decision": "SELL",
+        "Ticker": "FI",
+        "Trade Date": "2025-07-04",
+        "Decision": "HOLD",
+        "Targeted Price": "NO"
+    },
+    {
+        "Ticker": "HAL",
+        "Trade Date": "2025-07-04",
+        "Decision": "HOLD",
         "Targeted Price": "NO"
     },
     {
         "Ticker": "UAL",
-        "Trade Date": "2025-07-03",
-        "Decision": "BUY",
-        "Targeted Price": "153.5"
+        "Trade Date": "2025-07-04",
+        "Decision": "SELL",
+        "Targeted Price": "NO"
     }
 ]
