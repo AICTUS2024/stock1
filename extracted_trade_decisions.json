@@ -1,31 +1,31 @@
 [
     {
-        "Ticker": "DAL",
-        "Trade Date": "2025-07-08",
-        "Decision": "SELL",
-        "Targeted Price": "NO"
-    },
-    {
-        "Ticker": "SMCI",
-        "Trade Date": "2025-07-08",
-        "Decision": "SELL",
-        "Targeted Price": "NO"
-    },
-    {
-        "Ticker": "TER",
-        "Trade Date": "2025-07-08",
-        "Decision": "BUY",
-        "Targeted Price": "104"
-    },
-    {
-        "Ticker": "TGT",
-        "Trade Date": "2025-07-08",
+        "Ticker": "AMGN",
+        "Trade Date": "2025-07-09",
         "Decision": "BUY",
         "Targeted Price": "NO"
     },
     {
-        "Ticker": "UAL",
-        "Trade Date": "2025-07-08",
+        "Ticker": "BIIB",
+        "Trade Date": "2025-07-09",
+        "Decision": "HOLD",
+        "Targeted Price": "NO"
+    },
+    {
+        "Ticker": "GOOGL",
+        "Trade Date": "2025-07-09",
+        "Decision": "HOLD",
+        "Targeted Price": "NO"
+    },
+    {
+        "Ticker": "ISRG",
+        "Trade Date": "2025-07-09",
+        "Decision": "SELL",
+        "Targeted Price": "NO"
+    },
+    {
+        "Ticker": "QCOM",
+        "Trade Date": "2025-07-09",
         "Decision": "HOLD",
         "Targeted Price": "NO"
     }
