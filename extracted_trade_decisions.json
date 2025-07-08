@@ -1,32 +1,32 @@
 [
     {
-        "Ticker": "CRM",
-        "Trade Date": "2025-07-04",
-        "Decision": "HOLD",
-        "Targeted Price": "NO"
-    },
-    {
         "Ticker": "DAL",
-        "Trade Date": "2025-07-04",
-        "Decision": "HOLD",
+        "Trade Date": "2025-07-08",
+        "Decision": "SELL",
         "Targeted Price": "NO"
     },
     {
-        "Ticker": "FI",
-        "Trade Date": "2025-07-04",
-        "Decision": "HOLD",
+        "Ticker": "SMCI",
+        "Trade Date": "2025-07-08",
+        "Decision": "SELL",
         "Targeted Price": "NO"
     },
     {
-        "Ticker": "HAL",
-        "Trade Date": "2025-07-04",
-        "Decision": "HOLD",
+        "Ticker": "TER",
+        "Trade Date": "2025-07-08",
+        "Decision": "BUY",
+        "Targeted Price": "104"
+    },
+    {
+        "Ticker": "TGT",
+        "Trade Date": "2025-07-08",
+        "Decision": "BUY",
         "Targeted Price": "NO"
     },
     {
         "Ticker": "UAL",
-        "Trade Date": "2025-07-04",
-        "Decision": "SELL",
+        "Trade Date": "2025-07-08",
+        "Decision": "HOLD",
         "Targeted Price": "NO"
     }
 ]
