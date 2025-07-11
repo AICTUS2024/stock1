@@ -1,38 +1,50 @@
 [
     {
-        "Ticker": "AMGN",
-        "Trade Date": "2025-07-10",
-        "Decision": "BUY",
-        "Targeted Price": "330"
-    },
-    {
-        "Ticker": "BIIB",
-        "Trade Date": "2025-07-10",
-        "Decision": "SELL",
-        "Targeted Price": "NO"
-    },
-    {
-        "Ticker": "GOOGL",
-        "Trade Date": "2025-07-10",
+        "Ticker": "CEG",
+        "Trade Date": "2025-07-11",
         "Decision": "HOLD",
         "Targeted Price": "NO"
     },
     {
+        "Ticker": "CRM",
+        "Trade Date": "2025-07-11",
+        "Decision": "HOLD",
+        "Targeted Price": "NO"
+    },
+    {
+        "Ticker": "GOOGL",
+        "Trade Date": "2025-07-11",
+        "Decision": "BUY",
+        "Targeted Price": "NO"
+    },
+    {
         "Ticker": "ISRG",
-        "Trade Date": "2025-07-10",
+        "Trade Date": "2025-07-11",
+        "Decision": "HOLD",
+        "Targeted Price": "NO"
+    },
+    {
+        "Ticker": "NFLX",
+        "Trade Date": "2025-07-11",
         "Decision": "BUY",
         "Targeted Price": "153.5"
     },
     {
         "Ticker": "PYPL",
-        "Trade Date": "2025-07-10",
-        "Decision": "SELL",
+        "Trade Date": "2025-07-11",
+        "Decision": "HOLD",
         "Targeted Price": "NO"
     },
     {
-        "Ticker": "REGN",
-        "Trade Date": "2025-07-10",
+        "Ticker": "QCOM",
+        "Trade Date": "2025-07-11",
         "Decision": "HOLD",
+        "Targeted Price": "NO"
+    },
+    {
+        "Ticker": "RDDT",
+        "Trade Date": "2025-07-11",
+        "Decision": "SELL",
         "Targeted Price": "NO"
     }
 ]
