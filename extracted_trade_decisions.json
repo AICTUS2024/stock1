@@ -1,50 +1,20 @@
 [
     {
-        "Ticker": "CEG",
-        "Trade Date": "2025-07-11",
-        "Decision": "HOLD",
+        "Ticker": "IBM",
+        "Trade Date": "2025-07-15",
+        "Decision": "SELL",
         "Targeted Price": "NO"
     },
     {
-        "Ticker": "CRM",
-        "Trade Date": "2025-07-11",
-        "Decision": "HOLD",
-        "Targeted Price": "NO"
-    },
-    {
-        "Ticker": "GOOGL",
-        "Trade Date": "2025-07-11",
-        "Decision": "BUY",
-        "Targeted Price": "NO"
-    },
-    {
-        "Ticker": "ISRG",
-        "Trade Date": "2025-07-11",
-        "Decision": "HOLD",
+        "Ticker": "INTU",
+        "Trade Date": "2025-07-15",
+        "Decision": "SELL",
         "Targeted Price": "NO"
     },
     {
         "Ticker": "NFLX",
-        "Trade Date": "2025-07-11",
-        "Decision": "BUY",
-        "Targeted Price": "153.5"
-    },
-    {
-        "Ticker": "PYPL",
-        "Trade Date": "2025-07-11",
+        "Trade Date": "2025-07-15",
         "Decision": "HOLD",
-        "Targeted Price": "NO"
-    },
-    {
-        "Ticker": "QCOM",
-        "Trade Date": "2025-07-11",
-        "Decision": "HOLD",
-        "Targeted Price": "NO"
-    },
-    {
-        "Ticker": "RDDT",
-        "Trade Date": "2025-07-11",
-        "Decision": "SELL",
         "Targeted Price": "NO"
     }
 ]
