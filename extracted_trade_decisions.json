@@ -1,49 +1,25 @@
 [
     {
-        "Ticker": "ADI",
-        "Trade Date": "2025-07-17",
-        "Decision": "SELL",
-        "Targeted Price": "NO"
-    },
-    {
-        "Ticker": "CAH",
-        "Trade Date": "2025-07-17",
+        "Ticker": "APTV",
+        "Trade Date": "2025-07-19",
         "Decision": "HOLD",
         "Targeted Price": "NO"
     },
     {
-        "Ticker": "DG",
-        "Trade Date": "2025-07-17",
+        "Ticker": "BAC",
+        "Trade Date": "2025-07-19",
         "Decision": "HOLD",
         "Targeted Price": "NO"
     },
     {
-        "Ticker": "DIS",
-        "Trade Date": "2025-07-17",
-        "Decision": "SELL",
-        "Targeted Price": "120"
-    },
-    {
-        "Ticker": "ICE",
-        "Trade Date": "2025-07-17",
+        "Ticker": "INTU",
+        "Trade Date": "2025-07-19",
         "Decision": "HOLD",
-        "Targeted Price": "NO"
-    },
-    {
-        "Ticker": "META",
-        "Trade Date": "2025-07-17",
-        "Decision": "SELL",
-        "Targeted Price": "NO"
-    },
-    {
-        "Ticker": "NFLX",
-        "Trade Date": "2025-07-17",
-        "Decision": "SELL",
         "Targeted Price": "NO"
     },
     {
         "Ticker": "WFC",
-        "Trade Date": "2025-07-17",
+        "Trade Date": "2025-07-19",
         "Decision": "HOLD",
         "Targeted Price": "NO"
     }
